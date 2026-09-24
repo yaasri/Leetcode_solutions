@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 1 / 150 (0.7%)
+- **Completed:** 2 / 150 (1.3%)
 
 ---
 
@@ -95,7 +95,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Kth Largest Element in an Array
 - [ ] Task Scheduler
 - [ ] Design Twitter
-- [ ] Find Median from Data Stream
+- [x] [Find Median from Data Stream](./Java/Hard/295. Find Median from Data Stream/)
 
 ### 📂 Backtracking
 - [ ] Subsets
